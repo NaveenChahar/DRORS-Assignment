@@ -1,5 +1,5 @@
 const db={
-    url:'mongodb+srv://naveen:naveen@cluster0.pa5zm.mongodb.net/interview-assignment?retryWrites=true&w=majority'
+    url:''
 }
 
 module.exports=db;
