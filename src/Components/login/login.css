@@ -1,0 +1,43 @@
+.logincontainer{
+    background: white;
+    border-radius: 15px;
+    width:30%;
+    margin:5rem auto;
+    padding:5px;
+    box-shadow:0px 0px 10px gray;
+}
+
+.eachel{
+margin:1rem;
+width:90%
+}
+
+.banner{
+    padding:1rem;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.bannerhead{
+    border-radius: 35px;
+    color:black;
+    font-weight: 600;
+    padding:10px;
+    font-size: 30px;
+}
+
+@media screen and (max-width:895px){
+    .logincontainerTeacher{
+        width:80%!important;
+    }
+    .eachel{
+        width:70%
+    }
+}
+
+
+@media screen and (max-width:442px){
+    .logincontainerTeacher{
+        width:90%!important;
+    }
+}
